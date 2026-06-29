@@ -1,0 +1,7 @@
+{
+  "name": "@ecom/module-order",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "type": "module",
+  "private": true
+}
